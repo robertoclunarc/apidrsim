@@ -3,4 +3,5 @@ export const environments = {
     DSIM_KEY: 'sbox3i4QEgwwGe83rN',
     DSIM_SECRET: 'C8xfdtXJ9i4s7fBUUzzh',
     apiDrSimTools: 'https://api.doctorsim.com/tools',
+    apiDrSimCreateOrden: 'https://api.doctorsim.com/create_order',
 };
